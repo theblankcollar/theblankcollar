@@ -289,10 +289,7 @@ I work with a small number of founders and leadership teams at critical inflecti
 <td><strong>AI native by conviction, not by trend.</strong> I was building with agentic systems before the word was fashionable. I will still be building with them long after the hype moves on.</td>
 </tr>
 <tr>
-<td>🎵</td>
-<td><strong>Albanian deep house.</strong> Because even builders need a soundtrack. Yes, I make it with AI. Yes, that is entirely the point.</td>
-</tr>
-</table>
+
 
 ---
 
